@@ -9,3 +9,4 @@
 - [https___www_taktube_net (20260504_145147)](pages/taktube.net/https___www_taktube_net/20260504_145147/index.md) — 40 media files
 - [https___luticlip_com (20260504_151554)](pages/luticlip.com/https___luticlip_com/20260504_151554/index.md) — 30 media files
 - [https___www_google_com_search_q__D8_A7_D8_B2__DA_A9_D9_88_D9_86__D9_85_DB_8C_DA_A9_D9_86_D9_87__D9_8 (20260506_131109)](pages/google.com/https___www_google_com_search_q__D8_A7_D8_B2__DA_A9_D9_88_D9_86__D9_85_DB_8C_DA_A9_D9_86_D9_87__D9_8/20260506_131109/index.md) — 0 media files
+- [https___release_assets_githubusercontent_com_github_production_release_asset_1221068421_027fb241_c51 (20260507_085218)](pages/release-assets.githubusercontent.com/https___release_assets_githubusercontent_com_github_production_release_asset_1221068421_027fb241_c51/20260507_085218/index.md) — 0 media files
